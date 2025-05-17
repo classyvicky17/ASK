@@ -109,8 +109,11 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/399af048-39ad-4377-bb50-ef56fac5ab99)
 
+# Hard ware output:
+
+![image](https://github.com/user-attachments/assets/ab22295d-66c8-4423-b8cd-c59a8b177b04)
+
 # Results
 
 The graph is obtain for the modulation and demodulation of ASK using python programming
 
-# Hardware experiment output waveform.
